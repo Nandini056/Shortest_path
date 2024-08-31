@@ -5,9 +5,7 @@
 #include <cmath>
 #include <limits>
 
-/**
- * Created by Soumya Ranjan Sethy on 24/07/17.
- */
+
 
 class FindPath {
 public:
